@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm confident with volleyball and soccer
 
 ## About me
-I'm an undergraduate at IU-HCMVNU, majoring in computer science. From now to the summer of 2025, I'm looking forward to take a chance in internship with the role of backend development or fullstack dev
+I'm an undergraduate at IU-HCMVNU, majoring in computer science. From now to the summer of 2025, I'm looking forward to take a chance in internship with the role of backend or fullstack dev
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075458989582) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A1i-nguy%E1%BB%85n-158a17319) 
